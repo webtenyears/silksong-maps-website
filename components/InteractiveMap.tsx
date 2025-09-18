@@ -158,7 +158,7 @@ function MapControls() {
   
   useEffect(() => {
     // Add custom controls
-    const control = L.control({ position: 'topright' })
+    const control = L.control({ position: 'topright' } as any)
     
     control.onAdd = function() {
       const div = L.DomUtil.create('div', 'leaflet-control-custom')
