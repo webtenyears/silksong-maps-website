@@ -1,5 +1,5 @@
 import Navigation from '@/components/Navigation'
-import InteractiveMap from '@/components/InteractiveMap'
+import InteractiveMapWrapper from '@/components/InteractiveMapWrapper'
 import Card from '@/components/Card'
 import Search from '@/components/Search'
 import { MapIcon, BookOpenIcon, NewspaperIcon, StarIcon, ClockIcon } from '@heroicons/react/24/outline'
@@ -64,7 +64,7 @@ export default function Map() {
         {/* Map Container */}
         <div className="card mb-12">
           <div className="aspect-video bg-dark-700 rounded-lg overflow-hidden">
-            <InteractiveMap />
+            <InteractiveMapWrapper />
           </div>
         </div>
 
