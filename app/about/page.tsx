@@ -20,11 +20,11 @@ export default function About() {
           <div className="card">
             <h2 className="text-2xl font-semibold text-white mb-4">Our Mission</h2>
             <p className="text-gray-400 mb-4">
-              We're dedicated to providing the most comprehensive and accurate guides for Hollow Knight: Silksong. 
+              We&apos;re dedicated to providing the most comprehensive and accurate guides for Hollow Knight: Silksong. 
               Our interactive map helps players discover every secret, collectible, and challenge in Pharloom.
             </p>
             <p className="text-gray-400">
-              Whether you're a newcomer to the series or a veteran explorer, our guides are designed to enhance 
+              Whether you&apos;re a newcomer to the series or a veteran explorer, our guides are designed to enhance 
               your journey through this beautiful and challenging world.
             </p>
           </div>
@@ -51,7 +51,7 @@ export default function About() {
         <div className="card text-center">
           <h2 className="text-2xl font-semibold text-white mb-4">Contact Us</h2>
           <p className="text-gray-400 mb-6">
-            Have questions, suggestions, or found something we missed? We'd love to hear from you!
+            Have questions, suggestions, or found something we missed? We&apos;d love to hear from you!
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a href="mailto:contact@silksong-maps.com" className="btn-primary">

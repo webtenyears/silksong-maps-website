@@ -1,0 +1,14 @@
+{
+  "name": "silksong-maps-website",
+  "version": 2,
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/next"
+    }
+  ],
+  "env": {
+    "NEXT_PUBLIC_GA_ID": "G-3LMVTBWW4G",
+    "NEXT_PUBLIC_SITE_URL": "https://silksong-maps-website.vercel.app"
+  }
+}

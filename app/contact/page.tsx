@@ -12,7 +12,7 @@ export default function Contact() {
             <span className="text-gradient">Contact</span> Us
           </h1>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-            Have questions, suggestions, or found something we missed? We'd love to hear from you!
+            Have questions, suggestions, or found something we missed? We&apos;d love to hear from you!
           </p>
         </div>
 
@@ -109,7 +109,7 @@ export default function Contact() {
             </div>
 
             <div className="card">
-              <h2 className="text-2xl font-semibold text-white mb-6">What We're Looking For</h2>
+              <h2 className="text-2xl font-semibold text-white mb-6">What We&apos;re Looking For</h2>
               <div className="space-y-3">
                 <div className="flex items-start space-x-3">
                   <div className="w-2 h-2 bg-primary-500 rounded-full mt-2"></div>
@@ -134,7 +134,7 @@ export default function Contact() {
               <h2 className="text-2xl font-semibold text-white mb-6">Response Time</h2>
               <p className="text-gray-400">
                 We typically respond to emails within 24-48 hours. For urgent issues, 
-                please mention "URGENT" in your subject line.
+                please mention &quot;URGENT&quot; in your subject line.
               </p>
             </div>
           </div>
