@@ -152,41 +152,8 @@ const mapLocations = [
   }
 ]
 
-// Map controls component
+// Map controls component - simplified version
 function MapControls() {
-  const map = useMap()
-  
-  useEffect(() => {
-    // Add custom controls
-    const control = L.control({ position: 'topright' } as any)
-    
-    control.onAdd = function() {
-      const div = L.DomUtil.create('div', 'leaflet-control-custom')
-      div.innerHTML = `
-        <div style="
-          background: rgba(0,0,0,0.8);
-          color: white;
-          padding: 10px;
-          border-radius: 5px;
-          font-size: 12px;
-          line-height: 1.4;
-        ">
-          <div><strong>Legend:</strong></div>
-          <div>🌿 Areas</div>
-          <div>👑 Bosses</div>
-          <div>🎭 Collectibles</div>
-        </div>
-      `
-      return div
-    }
-    
-    control.addTo(map)
-    
-    return () => {
-      map.removeControl(control)
-    }
-  }, [map])
-  
   return null
 }
 
