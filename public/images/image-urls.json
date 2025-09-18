@@ -1,0 +1,32 @@
+{
+  "bosses": {
+    "weaver-queen": "https://source.unsplash.com/800x450/?fantasy%20boss%2C%20dark%20knight%2C%20battle",
+    "moss-knight": "https://source.unsplash.com/800x450/?nature%20warrior%2C%20green%20armor%2C%20forest",
+    "clockwork-knight": "https://source.unsplash.com/800x450/?mechanical%20knight%2C%20steampunk%2C%20gears",
+    "shadow-weaver": "https://source.unsplash.com/800x450/?shadow%20magic%2C%20dark%20sorcerer%2C%20mysterious",
+    "crystal-guardian": "https://source.unsplash.com/800x450/?crystal%20warrior%2C%20gemstone%2C%20guardian",
+    "void-knight": "https://source.unsplash.com/800x450/?void%20warrior%2C%20dark%20energy%2C%20final%20boss"
+  },
+  "collectibles": {
+    "mask-shards": "https://source.unsplash.com/800x450/?ancient%20mask%2C%20fragments%2C%20health",
+    "spools": "https://source.unsplash.com/800x450/?silk%20thread%2C%20weaving%2C%20needle",
+    "memory-charms": "https://source.unsplash.com/800x450/?magical%20charms%2C%20memory%2C%20pendant",
+    "lost-jumpfleas": "https://source.unsplash.com/800x450/?small%20creatures%2C%20rescue%2C%20quest",
+    "shakra-maps": "https://source.unsplash.com/800x450/?ancient%20maps%2C%20scrolls%2C%20navigation",
+    "hidden-relics": "https://source.unsplash.com/800x450/?ancient%20artifacts%2C%20treasures%2C%20relics"
+  },
+  "areas": {
+    "moss-grotto": "https://source.unsplash.com/800x450/?lush%20forest%2C%20green%20cave%2C%20nature",
+    "greymoor": "https://source.unsplash.com/800x450/?misty%20moorland%2C%20mysterious%2C%20fog",
+    "deep-docks": "https://source.unsplash.com/800x450/?harbor%2C%20mechanical%2C%20industrial",
+    "crystal-peak": "https://source.unsplash.com/800x450/?mountain%20peak%2C%20crystals%2C%20heights",
+    "weavers-den": "https://source.unsplash.com/800x450/?spider%20lair%2C%20silk%20webs%2C%20dark%20cave",
+    "void-sanctum": "https://source.unsplash.com/800x450/?dark%20temple%2C%20void%2C%20final%20area"
+  },
+  "news": {
+    "release-date": "https://source.unsplash.com/800x450/?game%20announcement%2C%20excitement%2C%20release",
+    "weaver-queen": "https://source.unsplash.com/800x450/?boss%20reveal%2C%20character%20design%2C%20battle",
+    "mask-shards": "https://source.unsplash.com/800x450/?collectibles%2C%20items%2C%20gameplay",
+    "hidden-areas": "https://source.unsplash.com/800x450/?secrets%2C%20exploration%2C%20discovery"
+  }
+}
